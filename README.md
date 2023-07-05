@@ -1,3 +1,12 @@
+Experimental Simple Portfolio Build
+
+Dev outline:
+Show card for each project-link to github
+Project card will have image of site 
+BONUS: video walkthrough link
+BONUS: link to fully hosted site
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
